@@ -1,5 +1,8 @@
 _repo: Emil-Rathenau-und-das-elektrische-Zeitalter_55188
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55188-h/images/cover.jpg
 creator:
   author:
     agent_name: Pinner, Felix
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '42408'
     url: http://www.gutenberg.org/2009/agents/42408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55188#Emil-Rathenau-und-das-elektrische-Zeitalter
 gutenberg_issued: '2017-07-24'
 gutenberg_type: Text
 identifiers:
